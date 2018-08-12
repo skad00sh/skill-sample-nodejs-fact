@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "space facts",
+      "invocationName": "pune forts",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
@@ -18,20 +18,16 @@
         {
           "name": "GetNewFactIntent",
           "samples": [
-            "a fact",
-            "a space fact",
-            "tell me a fact",
-            "tell me a space fact",
-            "give me a fact",
-            "give me a space fact",
-            "tell me trivia",
-            "tell me a space trivia",
-            "give me trivia",
-            "give me a space trivia",
-            "give me some information",
-            "give me some space information",
-            "tell me something",
-            "give me something"
+            "a forts in pune",
+            "a forts near pune",
+            "forts of pune",
+            "nearby forts pune",
+            "forts pune",
+            "pune forts",
+            "pune killa",
+            "pune kille",
+            "killa in pune"
+           
           ],
           "slots": []
         }
